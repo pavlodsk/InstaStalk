@@ -298,7 +298,9 @@ def help():
     sudo apt install python3-pip
 
     Para usar instastalk necesita una cuenta de instagram, ya que se utiliza la API de instagram
-    y esta requiere de iniciar sesión""")
+    y esta requiere de iniciar sesión
+    
+    Gracias por descargar y probar esta herramienta :)""")
     
 
 mi_bot = Bot()
